@@ -1,0 +1,46 @@
+{
+  "0": {
+    "map": [
+      {
+        "k": {
+          "string": "name"
+        },
+        "v": {
+          "string": "AhaXuGift1"
+        }
+      },
+      {
+        "k": {
+          "string": "description"
+        },
+        "v": {
+          "string": "First AhaXu Gift with logo - From AhaXu.com with <3"
+        }
+      },
+      {
+        "k": {
+          "string": "ticker"
+        },
+        "v": {
+          "string": "AHA"
+        }
+      },
+      {
+        "k": {
+          "string": "url"
+        },
+        "v": {
+          "string": "https://ahaxu.com"
+        }
+      },
+      {
+        "k": {
+          "string": "ipfs_hash"
+        },
+        "v": {
+          "string": "QmTkNhsuMsJ1rgLDdTFUAvoenRHBS7fSWHDsXs2MXC5sR6"
+        }
+      }
+    ]
+  }
+}
